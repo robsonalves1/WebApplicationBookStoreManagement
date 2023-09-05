@@ -2,4 +2,4 @@
 
 **This application consumes an API**
 
-See the API project in this link: https://github.com/robsonalves1/WebAPIBookManagement
+Please follow this link to see the API project: https://github.com/robsonalves1/WebAPIBookManagement
